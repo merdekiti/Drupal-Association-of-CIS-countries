@@ -1,15 +1,16 @@
 Список ресурсов, которые можно попробовать привлечь к сотрудничеству в работе над контентом:
-http://drupal-tv.ru/ - видео о друпале на русском и английском
-http://podrupalim.com/ - курсы (видео) по друпалу на русском
-http://drupalsn.ru/ - соц сеть для друпал разработчиков
-http://podcasts.drupal.ru - подкасты, можно целиком перетянуть на сайт ассоциации, либо как поддомен либо перетащить контент
+ - http://drupal-tv.ru/ - видео о друпале на русском и английском
+ - http://podrupalim.com/ - курсы (видео) по друпалу на русском
+ - http://drupalsn.ru/ - соц сеть для друпал разработчиков
+ - http://podcasts.drupal.ru - подкасты, можно целиком перетянуть на сайт ассоциации, либо как поддомен либо перетащить контент
+ - http://danilenko.in/ru/node/9 - роадмап как начать узучать Друпал 7, перечень ссылок на другие ресурсы
 
 Очень матерые друпал блогеры:
-http://xandeadx.ru/
-http://drupalace.ru/
-http://vlikin.blogspot.ru/
-http://www.drupalka.ru/
-http://drupal-bloggers.com/ - агрегатор блогов о друпал
+ - http://xandeadx.ru/
+ - http://drupalace.ru/
+ - http://vlikin.blogspot.ru/
+ - http://www.drupalka.ru/
+ - http://drupal-bloggers.com/ - агрегатор блогов о друпал
 
 
 Какие вещи вижу обязательными:
