@@ -5,12 +5,13 @@
  - http://podcasts.drupal.ru - подкасты, можно целиком перетянуть на сайт ассоциации, либо как поддомен либо перетащить контент
  - http://danilenko.in/ru/node/9 - роадмап как начать узучать Друпал 7, перечень ссылок на другие ресурсы
 
-Очень матерые друпал блогеры:
+Друпал блогеры:
  - http://xandeadx.ru/
  - http://drupalace.ru/
  - http://vlikin.blogspot.ru/
  - http://www.drupalka.ru/
  - http://drupal-bloggers.com/ - агрегатор блогов о друпал
+ - http://druler.com
 
 
 Какие вещи вижу обязательными:
