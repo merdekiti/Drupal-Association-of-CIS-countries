@@ -60,6 +60,9 @@
       - Разработчику
   - Локальные сообщества
       - drupal.ru
+         - DrupalSib.ru
+         - DrupalUg
+         - DrupalSpb.org
       - drupal.ua
       - drupal.by
   - Разработчики
